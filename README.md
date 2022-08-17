@@ -1,4 +1,4 @@
-# zabbix 5.0 Naon Theme
+# Zabbix 5.0 Naon Theme
 Zabbix 5.0 Custom Dark Theme
 > A dark theme for [Zabbix 5.0](https://www.zabbix.com/download?zabbix=5.0).
 
